@@ -1,0 +1,5 @@
+# ninja log v5
+0	879	1653892210159161884	CMakeFiles/ConstClassMember.dir/main.cpp.o	e656c37747532b2
+881	936	1653892210218966436	ConstClassMember	18b24bf44a09fb1c
+3	1118	1653927085656591413	CMakeFiles/ConstClassMember.dir/main.cpp.o	b123b4d09ff856bb
+1119	1181	1653927085720953193	ConstClassMember	18b24bf44a09fb1c

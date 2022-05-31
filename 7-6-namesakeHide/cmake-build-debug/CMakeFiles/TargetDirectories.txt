@@ -1,0 +1,3 @@
+/Users/hongfei/CLionProjects/7-6-namesakeHide/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/hongfei/CLionProjects/7-6-namesakeHide/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hongfei/CLionProjects/7-6-namesakeHide/cmake-build-debug/CMakeFiles/7_6_namesakeHide.dir
