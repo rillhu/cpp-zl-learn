@@ -1,3 +1,0 @@
-/Users/hongfei/CLionProjects/7-7-namesakeinherit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/hongfei/CLionProjects/7-7-namesakeinherit/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/hongfei/CLionProjects/7-7-namesakeinherit/cmake-build-debug/CMakeFiles/7_7_namesakeinherit.dir
