@@ -34,3 +34,6 @@
 */cmake-build-debug/
 .DS_Store
 */.DS_Store
+*/.vscode
+*/build
+*/*.dSYM
