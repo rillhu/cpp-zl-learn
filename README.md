@@ -3,4 +3,4 @@ This a repo for self-learning C++ using Tsinghua Zhengli's C++ programming langu
 
 Note:
 
-9-5-6: Just finish the declaration, the implementation is not finished.
+- [ ] 9-5-6: Just finish the declaration, the implementation is not finished.
